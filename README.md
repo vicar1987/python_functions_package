@@ -1,20 +1,20 @@
 # python_functions_package
 ## Installed Functions
-beautifulsoup4
-flask
-flask-bootstrap
-flask-paginate
-flask-pymongo
-flask-pymongo
-gensim
-jieba
-keras
-matplotlib
-numpy
-pandas
-pymongo
-pymysql
-requests
-scikit-learn
-tensorflow
-wordcloud
+1. beautifulsoup4
+2. flask
+3. flask-bootstrap
+4. flask-paginate
+5. flask-pymongo
+6. flask-pymongo
+7. gensim
+8. jieba
+9. keras
+10. matplotlib
+11. numpy
+12. pandas
+13. pymongo
+14. pymysql
+15. requests
+16. scikit-learn
+17. tensorflow
+18. wordcloud
